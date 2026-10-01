@@ -22,6 +22,10 @@ To explore, assess, clean, transform, and prepare a sales dataset for analysis u
 9. Sales validation
 10. Final cleaned dataset export
 
+## Outlier Detection and Analysis
+
+I applied the Interquartile Range (IQR) method to detect outliers in Age, Quantity, Unit_Price, and Total_Sales. No outliers were detected in Age, Quantity, or Unit_Price. However, 19 potential outliers were identified in Total_Sales. These records were flagged for further investigation rather than automatically removed, as they may represent legitimate high-value transactions.
+
 ## Key Findings
 - Total records: 1,000
 - Total original columns: 12
