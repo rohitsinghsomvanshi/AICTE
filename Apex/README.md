@@ -43,3 +43,19 @@ I applied the Interquartile Range (IQR) method to detect outliers in Age, Quanti
 
 ## Conclusion
 The dataset was profiled, cleaned, transformed, and validated to prepare it for further analysis. Potential duplicate IDs and sales outliers were flagged for review rather than automatically removed.
+
+
+## 👨‍💻 Author
+
+**Rohit Singh**
+
+MCA Student
+
+Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
+
+---
+Portfolio: [https://github.com/rohitsinghsomvanshi](https://rohitsinghsomvanshi.github.io/Portfolio/)
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
+
