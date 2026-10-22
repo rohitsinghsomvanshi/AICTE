@@ -5,7 +5,7 @@ An end-to-end Sales Data Analysis project using Python, Pandas, Matplotlib, MySQ
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="" width="100%">
+  <img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/EDA_Analysis/Screenshot%202026-10-22%20224250.png?raw=true" alt="" width="100%">
 </p>
 
 ## 📌 Project Overview
