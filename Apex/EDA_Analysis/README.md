@@ -134,7 +134,9 @@ The dashboard provides a visual overview of sales performance across categories,
 # 👨‍💻 Author
 
 **Rohit Singh**
+MCA Student
 
+Aspiring Data Analyst | Python Developer | Aspiring Data Science
 📧 Email: rohitsinghsomvanci00@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/rohitsinghsomvanshi
