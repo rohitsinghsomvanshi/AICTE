@@ -129,4 +129,24 @@ The dashboard provides a visual overview of sales performance across categories,
 ---
 
 **Project:** Sales Dashboard – Analysis  
-**Author:** Your Name
+
+
+# 👨‍💻 Author
+
+**Rohit Singh**
+
+📧 Email: rohitsinghsomvanci00@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/rohitsinghsomvanshi
+
+💻 GitHub: https://github.com/rohitsinghsomvanshi
+
+🔗 Portfolio: [https://github.com/rohitsinghsomvanshi](https://rohitsinghsomvanshi.github.io/Portfolio/)
+
+---
+
+## ⭐ If you found this project helpful, don't forget to Star this repository!
+
+
+Give this repository a ⭐ on GitHub.
+
