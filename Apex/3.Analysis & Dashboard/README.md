@@ -7,7 +7,12 @@ interactive Power BI dashboards.
 <p align="center">
 <img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/Sales_Analysisi_Dashboard.jpg?raw=true" alt="Sales Dashboard" width="100%">
 </p> 
-Technical Skills
+## Customer Segmentation Analysis - Dashboard
+<p align="center">
+<img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/Sales_Analysisi_Dashboard.jpg?raw=true" alt="Sales Dashboard" width="100%">
+</p> 
+
+# Technical Skills
 - Python, SQL
 - Pandas, NumPy
 - Exploratory Data Analysis (EDA)
