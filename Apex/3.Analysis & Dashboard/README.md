@@ -22,9 +22,6 @@ interactive Power BI dashboards.
 - Microsoft Excel
 - Matplotlib, Seaborn
 - Jupyter Notebook
-🚀 Project Workflow
-Step 1: Data Immersion & Wrangling
-Tools: Python, Pandas, NumPy, Jupyter Notebook
 
 Objective
 
@@ -47,7 +44,7 @@ inconsistencies, and prepare the data for further analysis.
 - Duplicate Order ID Review
 - Sales Outlier Review
 # Sales Data Analysis & Exploratory Data Analysis (EDA)
-Tools: 
+### Tools: 
 -Python 
 -Pandas
 -NumPy
