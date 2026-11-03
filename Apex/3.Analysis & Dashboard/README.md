@@ -162,10 +162,13 @@ Key Findings
 - Data Visualization
 - Power BI Dashboard Development
 - Business Insights and Reporting
-# ✍️ Author:
-## Rohit Singh 
-MCA Student(Data Science)
-Data Analytics | Python | SQL | Power BI
+## 👨‍💻 Author
+
+**Rohit Singh**
+
+MCA Student
+
+Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast 
 
 
 📬 Connect With Me
