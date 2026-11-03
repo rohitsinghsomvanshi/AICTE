@@ -5,8 +5,8 @@ wrangling, followed by sales data analysis, customer segmentation, and
 interactive Power BI dashboards.
 #  Sales Analysis - Dashboard
 <p align="center">
-<img src="output3.png" alt="Titanic Dashboard" width="100%">
-</p>
+<img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/Sales_Analysisi_Dashboard.jpg?raw=true" alt="Sales Dashboard" width="100%">
+</p> 
 Technical Skills
 - Python, SQL
 - Pandas, NumPy
