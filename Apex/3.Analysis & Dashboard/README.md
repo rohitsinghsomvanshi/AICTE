@@ -168,7 +168,7 @@ Key Findings
 
 MCA Student
 
-Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast 
+Aspiring Data Analyst | Data Science | Machine Learning Enthusiast 
 
 
 📬 Connect With Me
