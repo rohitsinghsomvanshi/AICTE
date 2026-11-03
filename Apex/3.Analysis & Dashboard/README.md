@@ -3,7 +3,10 @@ Welcome to my Data Analytics Project! This project demonstrates an
 end-to-end data analytics workflow, starting with data immersion and
 wrangling, followed by sales data analysis, customer segmentation, and
 interactive Power BI dashboards.
-
+#  Sales Analysis - Dashboard
+<p align="center">
+<img src="output3.png" alt="Titanic Dashboard" width="100%">
+</p>
 Technical Skills
 - Python, SQL
 - Pandas, NumPy
