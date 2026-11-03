@@ -43,7 +43,7 @@ inconsistencies, and prepare the data for further analysis.
 - Data Quality Assessment
 - Duplicate Order ID Review
 - Sales Outlier Review
-# Sales Data Analysis & Exploratory Data Analysis (EDA)
+# Sales Data Analysis 
 ### Tools: 
 -Python 
 -Pandas
