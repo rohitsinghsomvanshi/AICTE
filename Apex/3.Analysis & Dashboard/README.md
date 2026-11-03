@@ -7,9 +7,11 @@ interactive Power BI dashboards.
 <p align="center">
 <img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/Sales_Analysisi_Dashboard.jpg?raw=true" alt="Sales Dashboard" width="100%">
 </p> 
+
 ## Customer Segmentation Analysis - Dashboard
+
 <p align="center">
-<img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/Sales_Analysisi_Dashboard.jpg?raw=true" alt="Sales Dashboard" width="100%">
+<img src="https://github.com/rohitsinghsomvanshi/AICTE/blob/main/Apex/3.Analysis%20&%20Dashboard/CUSTOMER%20SEGMENTATION%20ANALYSIS%20-%20DASHBOARD.jpg?raw=true" alt="Sales Dashboard" width="100%">
 </p> 
 
 # Technical Skills
