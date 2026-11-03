@@ -31,7 +31,7 @@ Objective
 To understand the raw sales dataset, assess data quality, identify
 inconsistencies, and prepare the data for further analysis.
 
-Tasks Performed
+# Tasks Performed
 - Loaded and explored the sales dataset.
 - Examined dataset structure, columns, and data types.
 - Checked missing values and duplicate records.
@@ -41,13 +41,19 @@ Tasks Performed
 - Performed data quality checks.
 - Identified potential sales outliers.
 - Prepared the cleaned dataset for analysis.
-Output
+# Output
 - Cleaned Sales Dataset
 - Data Quality Assessment
 - Duplicate Order ID Review
 - Sales Outlier Review
 # Sales Data Analysis & Exploratory Data Analysis (EDA)
-Tools: Python, Pandas, NumPy, SQL, MySQL, Power BI
+Tools: 
+-Python 
+-Pandas
+-NumPy
+-SQL
+-MySQL
+-Power BI
 
 # Tasks Performed
 - Performed Exploratory Data Analysis using Python.
