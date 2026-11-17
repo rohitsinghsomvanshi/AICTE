@@ -1,8 +1,8 @@
-Data Storytelling & Statistical Validation
+### Data Storytelling & Statistical Validation
 This project brings together sales data preparation, exploratory data
 analysis, sales performance reporting, RFM-based customer segmentation,
 and statistical hypothesis testing.
-Project Objectives
+## Project Objectives
 - Analyze sales performance and customer purchasing behaviour.
 - Identify high-performing sales categories and cities.
 - Explore product, category, city, and monthly sales patterns.
@@ -10,14 +10,14 @@ Project Objectives
   analysis.
 - Validate a business question using statistical hypothesis testing.
 - Turn analytical findings into practical business recommendations.
-Project Highlights
+## Project Highlights
 - Total sales: approximately ₹139.40 million
 - Total units sold: 5,435
 - Unique customers: 947
 - Top sales category: Electronics (36.43% of sales)
 - Top-performing city: Patna (approximately ₹19.3 million in
   sales)
-Customer Segmentation (RFM)
+## Customer Segmentation (RFM)
   Customer Segment       Customers   Revenue
   High Value Recent            165   ₹44.22M
 At Risk High Value           147   ₹38.55M
@@ -25,9 +25,9 @@ Regular Customers            189   ₹27.89M
 Inactive Low Value           232   ₹14.69M
 Recent Low Value             214   ₹14.06M
 
-RFM analysis helps distinguish valuable recent customers from customers
+# RFM analysis helps distinguish valuable recent customers from customers
 who may need retention or re-engagement campaigns.
-Statistical Hypothesis Testing
+# Statistical Hypothesis Testing
 Research question: Is there a statistically significant difference
 in average sales between Male and Female sales records?
 - H₀ (Null hypothesis): There is no significant difference in
@@ -36,7 +36,7 @@ in average sales between Male and Female sales records?
   in average sales between the two groups.
 - Test used: Welch's Independent Two-Sample T-Test
 - Significance level (α): 0.05
-  Metric                                                           Result
+ ##  Metric                                                           Result
   Male mean sales                                             ₹141,807.34
 
   Female mean sales                                           ₹136,883.21
@@ -55,7 +55,7 @@ difference between the mean sales values of Male and Female records.
 Important note: This compares sales records, not average spend per
 unique customer. The test dataset contained 1,000 records after
 excluding 3 records with missing Gender or Total_Sales values.
-Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -64,13 +64,13 @@ Tools & Technologies
 - Microsoft Power BI
 - Microsoft Excel
 - PowerPoint
-Project Deliverables
+## Project Deliverables
 - Data story and business findings
 - Sales performance dashboard
 - RFM customer segmentation dashboard
 - Hypothesis testing notebook and summary
 - Final presentation deck
-Business Recommendations
+## Business Recommendations
 1. Reward and retain High Value Recent customers.
 2. Re-engage At Risk High Value customers with personalized campaigns.
 3. Develop suitable win-back campaigns for inactive customers.
@@ -80,7 +80,7 @@ Business Recommendations
 6. Avoid making gender-based marketing assumptions from this test
    alone.
 7. Monitor sales and customer segments regularly.
-Repository Structure
+## Repository Structure
 4.Data Storytelling & Statistical Validation/
 ├── Data_Story/
 │   └── Data_Story.md
@@ -92,9 +92,9 @@ Repository Structure
 ├── Hypothesis_Testing.ipynb
 ├── cleaned_sales.csv
 └── README.md
-Adjust the file names or folder structure above if your saved files use
+## Adjust the file names or folder structure above if your saved files use
 different names.
-How to Reproduce the Hypothesis Test
+## How to Reproduce the Hypothesis Test
 1. Install the required Python libraries:
    pip install pandas numpy scipy jupyter
 2. Keep cleaned_sales.csv in the same folder as
@@ -103,11 +103,11 @@ How to Reproduce the Hypothesis Test
 4. Run the cells in order to load the data, prepare the test dataset,
    run Welch's t-test, calculate the confidence interval, and export
    the summary.
-Conclusion
+## Conclusion
 This project demonstrates how sales analytics, customer segmentation,
 and statistical testing can support evidence-based business decisions.
 The findings point to opportunities in customer retention,
 re-engagement, and category-focused sales planning.
-Project: ApexPlanet Data Analytics Internship -- Task 4
-Topic: Data Storytelling & Statistical Validation
-Prepared by: Rohit Singh
+### Project: ApexPlanet Data Analytics Internship -- Task 4
+## Topic: Data Storytelling & Statistical Validation
+### Prepared by: Rohit Singh
