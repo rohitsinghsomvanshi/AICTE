@@ -1,0 +1,12 @@
+Metric,Result
+Male Orders,511
+Female Orders,489
+Male Average Sales,141807.34
+Female Average Sales,136883.21
+Mean Difference,4924.13
+T-Statistic,0.6826
+P-Value,0.495
+Confidence Level,95%
+CI Lower Limit,-9231.58
+CI Upper Limit,19079.85
+Conclusion,No statistically significant difference
