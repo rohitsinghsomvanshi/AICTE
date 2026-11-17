@@ -108,6 +108,6 @@ This project demonstrates how sales analytics, customer segmentation,
 and statistical testing can support evidence-based business decisions.
 The findings point to opportunities in customer retention,
 re-engagement, and category-focused sales planning.
-### Project: ApexPlanet Data Analytics Internship -- Task 4
+# Project: ApexPlanet Data Analytics Internship -- Task 4
 ## Topic: Data Storytelling & Statistical Validation
-### Prepared by: Rohit Singh
+## Prepared by: Rohit Singh
